@@ -1,0 +1,1 @@
+import{a as e,b as o,o as t,e as c}from"./entry.ebec4877.js";const s={},a=c("h1",null,"About page",-1),n=[a];function r(_,l){return t(),o("div",null,n)}const u=e(s,[["render",r]]);export{u as default};
